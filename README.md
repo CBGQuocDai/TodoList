@@ -1,1 +1,1 @@
-# TodoList
+# tech stack: servlet + jsp 
