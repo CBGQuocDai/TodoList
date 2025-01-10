@@ -1,1 +1,1 @@
-# tech stack: servlet + jsp 
+# tech stack: servlet + jsp + jdbc 

@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<% response.sendRedirect("/TodoList_war_exploded/t"); %>
 </body>
 </html>
